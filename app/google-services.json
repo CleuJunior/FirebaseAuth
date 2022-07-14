@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410149530883",
+    "project_id": "firabaseauth-80b11",
+    "storage_bucket": "firabaseauth-80b11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410149530883:android:45bdaee964578204a40d36",
+        "android_client_info": {
+          "package_name": "com.cleonildo.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410149530883-j7fc8c2ia0oblqps5p6r543u3a4ubpso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cleonildo.firebaseauth",
+            "certificate_hash": "dccab57f3f0ba08b03bfbf620536630d54673747"
+          }
+        },
+        {
+          "client_id": "410149530883-kurukrbcj4b2cmt49gctu8jsskk49tsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo5nxHdMtgzNNWJaXmjMbLsBixrpOijPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410149530883-kurukrbcj4b2cmt49gctu8jsskk49tsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
