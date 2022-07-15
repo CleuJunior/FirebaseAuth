@@ -9,55 +9,40 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Email*" />
+        android:text="Login*" />
 
     <EditText
-        android:id="@+id/edit_text_email"
+        android:id="@+id/edit_text_email_login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
-        android:layout_marginTop="10dp"
-        android:text="Ensira um Email" />
+        android:text="Insira seu e-mail" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:text="Senha*" />
 
     <EditText
-        android:id="@+id/edit_text_senha"
+        android:id="@+id/edit_text_senha_login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPassword"
-        android:hint="Digite sua senha"/>
-
-    <TextView
-
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
-        android:text="Repetir Senha*" />
-
-    <EditText
-        android:id="@+id/edit_text_repetir_senha"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:inputType="textPassword"
-        android:layout_marginTop="10dp"
-        android:hint="Digite sua senha novamente" />
+        android:hint="Informe sua senha" />
 
     <Button
-        android:id="@+id/button_cadastrar_usuario"
+        android:id="@+id/button_ok_login"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Cadastrar"/>
+        android:text="Ok"/>
 
     <Button
-        android:id="@+id/button_cancelar"
+        android:id="@+id/button_recuperar"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="Canselar"/>
+        android:layout_marginTop="20dp"
+        android:text="recuperar senha"/>
 
 </LinearLayout>

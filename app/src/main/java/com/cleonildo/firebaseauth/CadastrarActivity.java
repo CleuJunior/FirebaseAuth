@@ -21,6 +21,7 @@ public class CadastrarActivity extends AppCompatActivity implements View.OnClick
         this.edit_text_email = findViewById(R.id.edit_text_email);
         this.edit_text_senha = findViewById(R.id.edit_text_senha);
         this.edit_text_senha_repetir = findViewById(R.id.edit_text_repetir_senha);
+
         this.button_cadastrar = findViewById(R.id.button_cadastrar_usuario);
         this.button_cancelar = findViewById(R.id.button_cancelar);
 
